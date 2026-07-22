@@ -76,36 +76,6 @@ A desktop-based quiz application built with Java Swing and AWT, featuring multi-
 
 ---
 
-### 🔥 Streak Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=IshitaKharde&theme=nord&border=7dd3fc&background=0d1117&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=IshitaKharde&theme=nord&no-frame=true&no-bg=true&margin-w=15)
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IshitaKharde&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true)
-
-</div>
-
----
-
 ### 📫 Connect With Me
 
 <div align="center">
