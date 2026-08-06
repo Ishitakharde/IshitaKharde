@@ -24,7 +24,7 @@ const ishitaKharde = {
   title: "Software Engineer",
   status: "Fresher",
   stack: ["Java", "Python", "HTML", "CSS", "JavaScript", "Machine Learning", "Deep Learning", "Git", "GitHub"],
-  launchedProjects: ["DocuShield", "Techno Quiz Application"],
+  launchedProjects: ["DocuShield", "Resume Assistant"],
   certifications: ["Deep Learning — Nvidia", "AWS Cloud Practitioner Essentials — AWS"],
   openTo: "Software Engineering roles & collaborative projects",
 };
@@ -38,9 +38,9 @@ const ishitaKharde = {
 An intelligent document verification system combining computer vision, OCR, and AI-based reasoning to classify documents as Authentic, Suspicious, or Needs Review.
 🔗 *Link coming soon*
 
-**Techno Quiz Application (Java Swing)**
-A desktop-based quiz application built with Java Swing and AWT, featuring multi-screen navigation, timer-based questions, a 50-50 lifeline, and real-time scoring.
-🔗 *Link coming soon*
+**Resume Assistant — AI Chatbot for Resume Tailoring**
+A full-stack Python chatbot that lets users upload a resume and job description, then ask questions or request tailored rewrites, powered by the Gemini REST API with a Flask backend and SQLite for session storage.
+🔗 [Code](https://github.com/Ishitakharde/resume_assistant)
 
 ---
 
