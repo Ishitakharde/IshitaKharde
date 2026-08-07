@@ -4,7 +4,7 @@
 ![Header](https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Ishita%20Kharde&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Fresher&descAlignY=55&descSize=20)
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Fresher;Machine+Learning+%26+Deep+Learning+Enthusiast;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=AI/ML+Engineer+%7C+Fresher;Machine+Learning+%26+Deep+Learning+Enthusiast;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 <!-- Open to work badge -->
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=white)
