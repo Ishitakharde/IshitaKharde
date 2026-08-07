@@ -26,7 +26,7 @@ const ishitaKharde = {
   stack: ["Java", "Python", "HTML", "CSS", "JavaScript", "Machine Learning", "Deep Learning", "Git", "GitHub"],
   launchedProjects: ["DocuShield", "Resume Assistant"],
   certifications: ["Deep Learning — Nvidia", "AWS Cloud Practitioner Essentials — AWS"],
-  openTo: "Software Engineering roles & collaborative projects",
+  openTo: "AI/ML Engineering roles & collaborative projects",
 };
 ```
 
