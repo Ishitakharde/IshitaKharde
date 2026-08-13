@@ -21,7 +21,7 @@
 
 ```typescript
 const ishitaKharde = {
-  title: "AI/ML Engineer",
+  title: Software Engineer",
   status: "Fresher",
   stack: ["Java", "Python", "HTML", "CSS", "JavaScript", "MySQL","MongoDB","Machine Learning", "Deep Learning", "Git", "GitHub"],
   launchedProjects: ["DocuShield", "Resume Assistant"],
