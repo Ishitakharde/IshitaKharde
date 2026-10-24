@@ -25,7 +25,7 @@ Hi, I'm **Ishita Kharde**, an Electronics and Telecommunication Engineering grad
 
 ## 🚀 Featured Projects
 
-### 📈 [FNP Sales Analysis Dashboard](https://github.com/Ishitakharde/FNP-sales-analysis)
+### 📈 [FNP Sales Analysis Dashboard](https://github.com/Ishitakharde/FNP-sales-analysis--excel-)
 An Excel-based sales analysis project that explores business performance through a dashboard.
 
 - Summarizes revenue and other key performance indicators
