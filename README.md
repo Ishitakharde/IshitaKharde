@@ -39,7 +39,7 @@ An Excel-based sales analysis project that explores business performance through
 A document verification project designed to classify documents as **Authentic**, **Suspicious**, or **Needs Review** using computer vision and AI-assisted analysis.
 
 **Tools:** Python, OpenCV, YOLOv8, Gemini API  
-**Repository:** Add the public project link here when available.
+
 
 ### 💬 [Resume Assistant](https://github.com/Ishitakharde/resume_assistant)
 A Python chatbot that helps users work with resumes and job descriptions, with a Flask backend and SQLite session storage.
