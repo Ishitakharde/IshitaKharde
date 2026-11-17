@@ -49,13 +49,13 @@ I enjoy analysing data, understanding business requirements, identifying trends,
 
 ## 🚀 Featured Projects
 
-### 📊 Executive Sales Dashboard | Power BI
+### 📊 Executive Sales Dashboard | Power BI (https://github.com/Ishitakharde/Executive-sales-dashboard)**
 - Developed an interactive dashboard to analyse sales performance.
 - Created a dedicated Date Table and Measures Table.
 - Developed DAX measures for Total Revenue, Gross Profit, Gross Margin and Total Orders.
 - Analysed country-wise performance, product categories and sales channels.
 
-### 📈 FNP Sales Analysis Dashboard | Microsoft Excel
+### 📈 FNP Sales Analysis Dashboard | Microsoft Excel (https://github.com/Ishitakharde/fnp-sales-analysis)**
 - Analysed sales records using Excel PivotTables.
 - Developed charts and an interactive dashboard.
 - Identified sales trends and presented business insights.
