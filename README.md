@@ -44,6 +44,7 @@ I enjoy analysing data, understanding business requirements, identifying trends,
 - Git & GitHub
 - VS Code
 - PowerPoint
+  
 
 ---
 
@@ -55,7 +56,7 @@ I enjoy analysing data, understanding business requirements, identifying trends,
 - Developed DAX measures for Total Revenue, Gross Profit, Gross Margin and Total Orders.
 - Analysed country-wise performance, product categories and sales channels.
 
-### 📈 FNP Sales Analysis Dashboard | Microsoft Excel (https://github.com/Ishitakharde/fnp-sales-analysis)**
+### 📈 FNP Sales Analysis Dashboard | Microsoft Excel (https://github.com/Ishitakharde/FNP_Sales_analysis)**
 - Analysed sales records using Excel PivotTables.
 - Developed charts and an interactive dashboard.
 - Identified sales trends and presented business insights.
